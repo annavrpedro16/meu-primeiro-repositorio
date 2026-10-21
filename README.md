@@ -7,7 +7,7 @@ Projeto criado para praticar o que aprendi no curso de **Git**.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/meu-primeiro-repositorio.git
+   git clone https://github.com/annavrpedro-cmd/meu-primeiro-repositorio.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
